@@ -23,6 +23,13 @@ One technique I used was to just read over the program to see what it does and w
 **breaking test 2**
 <img width="1202" alt="Screen Shot 2022-04-23 at 5 40 04 PM" src="https://user-images.githubusercontent.com/103155832/164950808-1645ce3e-dd81-4c3e-910b-63c8777692fa.png">
 
+**breaking test 2 output**
+
+<img width="737" alt="Screen Shot 2022-04-23 at 6 19 57 PM" src="https://user-images.githubusercontent.com/103155832/164951615-a69d83ed-6539-48a6-83f4-d3d34c8d4138.png">
+
+**test file**
+https://github.com/TuannDang/markdown-parser/blob/main/testfile2.md
+
 **fix 2**
 <img width="1079" alt="Screen Shot 2022-04-23 at 5 40 54 PM" src="https://user-images.githubusercontent.com/103155832/164950831-60d0a2a3-d390-4bd8-a2ed-1fe4757cb92d.png">
 
