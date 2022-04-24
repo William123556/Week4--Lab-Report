@@ -35,3 +35,19 @@ https://github.com/TuannDang/markdown-parser/blob/main/testfile2.md
 
 Added an if statement to check that a parenthesis directly follows the close bracket before appending to the list. 
 I only used print statements at first to figure out the index where the parentheses are at. 
+
+**breaking test 3**
+
+<img width="403" alt="Screen Shot 2022-04-23 at 10 27 14 PM" src="https://user-images.githubusercontent.com/103155832/164957982-7cf5732d-6bb4-47be-bb76-610823a0c5d6.png">
+
+**breaking test 3 output**
+
+<img width="748" alt="Screen Shot 2022-04-23 at 10 24 41 PM" src="https://user-images.githubusercontent.com/103155832/164957923-3a4ec442-7147-42be-9672-3f6da5ecafce.png">
+
+**fix 3**
+<img width="1215" alt="Screen Shot 2022-04-23 at 10 32 14 PM" src="https://user-images.githubusercontent.com/103155832/164958077-de9152a0-db86-4a8b-89ab-de256e5043f6.png">
+
+
+
+
+
