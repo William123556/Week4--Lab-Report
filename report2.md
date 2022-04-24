@@ -47,6 +47,8 @@ I only used print statements at first to figure out the index where the parenthe
 **fix 3**
 <img width="1215" alt="Screen Shot 2022-04-23 at 10 32 14 PM" src="https://user-images.githubusercontent.com/103155832/164958077-de9152a0-db86-4a8b-89ab-de256e5043f6.png">
 
+inserted another condition that verified that an exclamation mark does not precede the left bracket.
+
 
 
 
